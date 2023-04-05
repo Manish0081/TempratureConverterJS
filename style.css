@@ -1,0 +1,29 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+.container{
+    width:70%;
+    margin:0 auto;
+}
+.center{
+    text-align:center;
+}
+.p-50{
+    padding:10px 0px;
+    margin:60px;
+    font-size: 20px;
+}
+.bg-color{
+    background-color:aqua;
+}
+.border{
+    border:2px solid aqua;
+}
+.fs{
+    font-size:22px;
+}
+.m-10{
+    margin: 40px 0px;
+}
